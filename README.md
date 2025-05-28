@@ -18,6 +18,4 @@ root@localhost ~# ``msfconsole``
 
 Credit to the original script
 
-``
-https://gist.github.com/fcolista/2feb77ad9dabb485f64cadd1e94fdf78#file-configure-metasploit-alpine-sh
-'`
+``https://gist.github.com/fcolista/2feb77ad9dabb485f64cadd1e94fdf78#file-configure-metasploit-alpine-sh'`
